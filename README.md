@@ -3,6 +3,10 @@
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakask2002V&label=Profile%20views&color=0e75b6&style=flat" alt="Prakask2002V" /> </p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohan srinivasan" target="blank"><img align="center" 
