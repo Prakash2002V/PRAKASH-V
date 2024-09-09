@@ -20,8 +20,6 @@ I am an aspiring Data Analyst passionate about extracting insights from data to 
   - SQL
   - Excel (Pivot Tables, VLOOKUP)
   - Power BI (Dashboards, Reports)
-  - Python (for Data Analysis)
-  - Tableau
   - Financial Modeling
 
 - **Key Strengths**:
@@ -39,14 +37,6 @@ I am an aspiring Data Analyst passionate about extracting insights from data to 
 - Cleaned and transformed data for city-wise and restaurant-wise analysis
 - Created dashboards with insights on sales, profit, customer ratings, and food categories
 
-### [💼 Financial Dashboard for GST Analysis](https://github.com/yourusername/gst-analysis)
-- Created a Power BI dashboard for **party-wise GST sales, purchase, and taxation**
-- Visualized data using charts like Cluster Bar, Line Charts, and Donut charts
-
-### [📊 Bank Audit & Analysis](https://github.com/yourusername/bank-audit-analysis)
-- Assisted in internal audit at **KMBF Bank**, reviewing financial records such as **RD, FD, SB**, and gold loans
-- Conducted **Form 15/16** reviews and report writing
-
 ---
 
 ## Education
@@ -59,6 +49,6 @@ I am an aspiring Data Analyst passionate about extracting insights from data to 
 
 ## Connect with Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [prakashvesa@gamil.com](mailto:your.email@example.com)
 - 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
+
