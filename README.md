@@ -50,5 +50,5 @@ I am an aspiring Data Analyst passionate about extracting insights from data to 
 ## Connect with Me
 
 - 📧 Email: [prakashvesa@gamil.com](mailto:your.email@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- 🌐 LinkedIn: [www.linkedin.com/in/prakash-a2v0p0s2](https://www.linkedin.com/in/yourprofile/)
 
